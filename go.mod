@@ -1,7 +1,6 @@
-module github.com/divineforge/gold-excavator
+module github.com/divineforge/go-recipes
 
 go 1.17
-
 require (
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
